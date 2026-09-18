@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anusha-1510" alt="anusha-1510" /></a> </p>
 
-- 🌱 I’m currently learning **python,django,html,css,javaScript,React.js, AWS, DevOps, CI/CD, Terraform, Ansible, Docker, Container, Kubernetes, Jenkins, Linux, Bash-Scripting, Yaml**
+- 🌱 I’m currently learning **python, django, html, css, javaScript, React.js, API's, SQL, DataBases, MangoDB, Power BI, AWS, DevOps, CI/CD, Terraform, Ansible, Docker, Container, Kubernetes, Jenkins, Linux, Bash-Scripting, Yaml**
 - 💬 Ask me about **Python,html,Devops,AWS**
 
 - 📫 How to reach me **234156s@siddharthamahila.ac.in**
